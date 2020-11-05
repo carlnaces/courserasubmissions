@@ -168,9 +168,10 @@ write.table(dataFinal2, file = "tidydata.txt", sep = ",")
 ## Contact
 
 Carl Naces - [@coralnaces](https://twitter.com/coralnaces)
+Github - [coralnaces](https://github.com/coralnaces)
 Email: carljessenaces@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [courserasubmissions](https://github.com/coralnaces/courserasubmissions)
 
 
 
